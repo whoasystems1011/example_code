@@ -1,0 +1,3 @@
+# ignore actual macro workbooks
+# we only upload exported source code
+.xlsm
