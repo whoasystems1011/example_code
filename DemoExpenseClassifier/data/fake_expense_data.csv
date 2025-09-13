@@ -1,0 +1,102 @@
+id,date,vendor,description,amount,classification
+8440fc6b-d524-4e44-ab7b-6010f9202395,5/10/2024,Amazon Purchase,Amazon Purchase - Ergonomic Keyboard,1307.72,Office Supplies
+92b12e33-5c28-4cce-b5d4-b57755cbffea,9/27/2024,Google Ads Monthly Spend,Google Ads Monthly Spend,1374.43,Advertising
+e3fa266a-f28d-48f4-829b-d7ce061ecc59,3/18/2024,AWS Cloud Storage Monthly Fee,AWS Cloud Storage Monthly Fee,1929.54,Cloud Services
+e0c026f5-286c-4763-9fbe-c33202ad5d5c,10/17/2024,Uber,Uber - Client Meeting Downtown,151.79,Travel - Business
+73b49df5-f4bb-4b60-8da0-573896bcee2c,7/4/2024,Starbucks,Starbucks - Coffee for Team Meeting,664.62,Meals & Entertainment - Business
+50ae886a-a4df-45b5-a411-99d5cd896220,7/25/2024,Stripe Transaction Fee,Stripe Transaction Fee,787.52,Merchant Fees
+c91346e0-9f87-46d3-96f5-abfc23bfb9fa,5/4/2024,Best Buy,Best Buy - Laptop for New Employee,703.72,Computer Equipment
+aad3b9f2-e671-4b6c-8683-82bc8b5f0e85,10/7/2024,QuickBooks Online Subscription,QuickBooks Online Subscription,975.75,Software Subscription
+eee14efb-7a3a-477d-8b3f-41b12f29e450,4/16/2024,LinkedIn Premium Business Plan,LinkedIn Premium Business Plan,1535.44,Professional Services
+b5d08ca3-a93a-4add-adf9-4a75a4a21cc6,4/29/2024,T-Mobile Business Plan,T-Mobile Business Plan,1667.37,Utilities - Phone
+8d22a0cb-fc2c-4223-bae5-d49914e48583,2/2/2024,Chick-fil-A,Chick-fil-A - Lunch with Client,920.19,Meals & Entertainment - Business
+e5c0ff7d-de8d-41a2-9339-58f0c25a0148,7/29/2024,Marriott Hotel,Marriott Hotel - Business Conference,263.98,Travel - Business
+e1c3f5af-2b65-485e-85bd-ed3432c6a8d5,9/20/2024,Dropbox Annual Business Plan,Dropbox Annual Business Plan,626.19,Software Subscription
+8e1aa9ad-48c3-42b9-9c77-1e6984ea9dfc,4/16/2024,Verizon Wireless Monthly Bill,Verizon Wireless Monthly Bill,1295.19,Utilities - Phone
+df0f4505-4c90-445a-a7e1-2dd1286bea74,9/4/2024,Home Depot,Home Depot - Office Light Fixtures,1094.85,Office Renovations
+7c769f56-bbcb-42dd-95bf-ae453a35ba58,4/12/2024,PayPal,PayPal - Freelancer Invoice,1878.71,Professional Services
+f01e6dcf-60db-4787-954c-4e0d29ae56fe,10/15/2024,Hertz Rental Car,Hertz Rental Car - Client Visit,128.4,Travel - Business
+66aef663-a4e8-4209-862f-fb44a2eb17a6,5/6/2024,Adobe Creative Cloud,Adobe Creative Cloud - Annual Plan,989.69,Software Subscription
+c53376c6-ae47-487e-a7c1-bd7f71d2cbe4,7/10/2024,Microsoft 365 Business,Microsoft 365 Business,1012.84,Software Subscription
+ef183928-bfc5-4eb2-a2df-13d22800ee1a,5/5/2024,Costco,Costco - Bulk Printer Paper,513.87,Office Supplies
+c619d9af-791b-409b-b00f-d082979e837e,3/2/2024,Spotify Family Plan,Spotify Family Plan,730.51,Personal Subscription
+b6891dd8-528b-40ee-9bf9-e8d18b650574,4/15/2024,Apple iCloud Storage,Apple iCloud Storage,580.19,Cloud Services
+a95199e5-2bc3-41aa-8b7d-c5786c9f584d,3/17/2024,Uber,Uber - Personal Ride Home,984.62,Travel - Personal
+544ed475-f6c2-43da-915a-b6d0acb459c8,6/12/2024,Airbnb,Airbnb - Offsite Company Retreat,1622.39,Needs Context
+27b64afb-87ae-4d6f-baab-3ab045bc7596,1/8/2024,Dell Monitor for Workstation,Dell Monitor for Workstation,1398.87,Computer Equipment
+522d77c5-0fbd-442c-9be9-4ad4b3375ae0,8/11/2024,FedEx,FedEx - Shipping Business Documents,414.87,Professional Services
+5c83a4f2-ef52-4a0f-abe8-a3c130881a99,5/8/2024,Fiverr,Fiverr - Logo Design Contract,1289.29,Professional Services
+2dd1f3a6-cb31-40e5-b83e-59eaec2c2ebc,4/17/2024,WeWork,WeWork - Monthly Co-working Space,1429.34,Office Supplies
+58d5221a-b32e-4f6d-9220-de19105aa7cd,7/27/2024,Domain Renewal,Domain Renewal - GoDaddy,1664.14,Cloud Services
+92675ffc-ad98-4da6-b661-e6e6980fd4a9,1/16/2024,Restaurant,Restaurant - Dinner with Investors,1993.55,Meals & Entertainment - Business
+506591e0-3b84-426f-b728-0b622930bc36,5/27/2024,Car Rental for Out-of-State Client Visit,Car Rental for Out-of-State Client Visit,1794.29,Travel - Business
+744b5cdd-d1a8-4f75-8220-d0d626f80be0,8/20/2024,Hootsuite,Hootsuite - Social Media Management,339.49,Advertising
+0efeb40b-1f4e-476a-aec5-b3f3b87a802b,3/24/2024,Staples,Staples - Ink Cartridges,1956.62,Office Supplies
+6111f146-7b3a-4f5d-8afe-29b4faed488b,7/25/2024,Square Payment Processing Fee,Square Payment Processing Fee,246.1,Merchant Fees
+28ee51ff-6778-4608-8cbb-dc451b6a269d,6/2/2024,Electric Bill,Electric Bill - Office,1868.25,Utilities - Phone
+586da9c0-2296-4057-a2da-0d5db058c32c,7/22/2024,Chase Bank Wire Transfer Fee,Chase Bank Wire Transfer Fee,270.1,Needs Context
+6519d974-0f58-4446-b6fd-0a4dc77f709a,6/2/2024,Facebook Ads Spend,Facebook Ads Spend,360.77,Advertising
+8dca1477-d04c-492a-aa8d-7e15daaccda3,4/18/2024,Asana Business Plan Subscription,Asana Business Plan Subscription,131.77,Software Subscription
+f3148225-6fdf-4c19-b5ef-883d8f5001fd,4/11/2024,Google Cloud Platform Usage,Google Cloud Platform Usage,1316.09,Cloud Services
+d2f97707-8328-4752-959b-da746ae6aa06,6/2/2024,Amazon,Amazon - Office Desk and Chair,553.22,Office Supplies
+55a5a410-a2d2-449c-94e9-7f3ac7394a5f,9/13/2024,Walmart,Walmart - Office Snacks,366.94,Office Supplies
+b73281e1-a2b4-44dd-afe6-46ad8dc0850c,3/28/2024,Uber,Uber - Ride to Networking Event,217.76,Travel - Business
+59593df1-22d7-49df-9133-ad4471da79d6,10/13/2024,Lyft,Lyft - Personal Ride,1573.92,Travel - Personal
+7b1ed1c7-b03d-4327-9dc6-d0bc8e571a90,4/26/2024,Zoom,Zoom - Monthly Business Subscription,254.41,Software Subscription
+07bee534-b1b3-446c-88f1-820d6b17f4c6,4/5/2024,Google Drive Business Plan,Google Drive Business Plan,77.93,Cloud Services
+c0a44f38-c5a7-4df0-a3da-880502d996db,3/27/2024,Home Depot,Home Depot - Paint for Office Walls,1842.88,Office Renovations
+b0f857f5-160c-43db-bdda-ee160b387d4d,4/10/2024,Adobe Photoshop Creative Suite,Adobe Photoshop Creative Suite,786.1,Software Subscription
+2934bf61-9f79-452b-8dbd-e9365bf462de,1/5/2024,Stripe Payment Processing Fee,Stripe Payment Processing Fee,268.88,Merchant Fees
+9a5a3517-49f3-4efe-abcf-8b2f73e04287,9/23/2024,Tesla Supercharger,Tesla Supercharger - Business Trip,655.35,Travel - Business
+7a96fa51-c32a-461e-ba0e-037605fffd1f,6/14/2024,Spotify Business Plan,Spotify Business Plan,1759.52,Personal Subscription
+37834707-1730-4af7-8e9f-e730568230e1,7/1/2024,Dropbox Storage Upgrade,Dropbox Storage Upgrade,859.43,Cloud Services
+d03df27f-74f1-48e1-b96c-54aa969e9420,10/3/2024,Airbnb,Airbnb - Team Retreat,507.13,Needs Context
+362116f5-ff71-4067-94d3-0c85941888ab,7/11/2024,Uber Eats,Uber Eats - Lunch for Office Team,732.35,Meals & Entertainment - Business
+b00e2a0b-7da8-4273-9404-ce8bc6b7a2ce,1/26/2024,Shell Gas Station,Shell Gas Station - Business Trip Fuel,1437.23,Travel - Business
+65cb86cc-0cd5-497b-a7e5-f4255a15d9ef,1/9/2024,Etsy,Etsy - Custom Business Cards,111.83,Professional Services
+941a12de-c4a0-4c1c-b6a5-b4566f66166b,10/12/2024,UPS,UPS - Express Business Shipping,233.29,Professional Services
+4cab5e75-5010-4949-92f1-063009c85c2d,10/12/2024,Vistaprint,Vistaprint - Marketing Flyers,429.15,Advertising
+fc5af295-769d-4a40-88e3-8ae95922b725,8/16/2024,Google Ads Campaign for Q3,Google Ads Campaign for Q3,39.07,Advertising
+5e7ae4a4-430e-4305-a3a6-6f6c05bd4f93,3/12/2024,Microsoft Azure Cloud Compute Usage,Microsoft Azure Cloud Compute Usage,1244.37,Cloud Services
+7e324bca-874d-4153-bbbf-a93dd6ccd850,5/31/2024,Facebook Meta Ads,Facebook Meta Ads,1728.41,Advertising
+44af1014-9443-432c-bf20-a9b16022f5cb,2/6/2024,Trello Premium Subscription,Trello Premium Subscription,558.7,Software Subscription
+39e32db6-25ce-474a-b1b1-30ce062c1ba0,10/4/2024,GitHub Business Plan,GitHub Business Plan,1255.25,Software Subscription
+8462b5d4-bae7-40ad-95eb-60409783ddb8,8/12/2024,AWS Lambda Compute Charges,AWS Lambda Compute Charges,1552.62,Cloud Services
+b9421a47-8aa6-4c7f-a811-f42cdf63ccdc,2/13/2024,American Airlines,American Airlines - Business Flight,1833.06,Travel - Business
+4eaec24f-63d0-4d89-8ccd-b2676ccf0925,7/14/2024,WeWork,WeWork - Office Space Rental,487.28,Office Supplies
+19bfc7b4-93f9-493f-addd-c6d8fcc2ef92,3/6/2024,Slack Premium Business Subscription,Slack Premium Business Subscription,1539.35,Software Subscription
+bae69fda-3065-4db4-b7d8-2168d62a7d50,10/18/2024,Notion Pro Subscription,Notion Pro Subscription,1632.92,Software Subscription
+9cf263c5-eaba-46fa-8fcc-b4c60907b6d0,9/5/2024,FedEx,FedEx - Priority Overnight Shipping,848.85,Professional Services
+4419a607-f6c1-4d20-8503-4bc79404b272,7/2/2024,LegalZoom,LegalZoom - Business Incorporation Fees,1944.87,Professional Services
+52073315-5d59-4dc4-924b-37395987c780,8/7/2024,Namecheap,Namecheap - Domain Registration,464.77,Cloud Services
+a47e65f2-3d19-4053-b880-acf2dc0dc8af,5/29/2024,GoDaddy,GoDaddy - SSL Certificate Renewal,1912.41,Cloud Services
+18d64cf7-6a8d-4da7-b98b-1ed24e6126f5,6/20/2024,PayPal,PayPal - Business Transaction Fee,1873.93,Merchant Fees
+03f8442a-16db-4a94-b9bf-699965f2cc5e,9/14/2024,Visa Credit Card Annual Fee,Visa Credit Card Annual Fee,1367.87,Needs Context
+0a124016-44a8-411a-913c-c8fab8b28936,1/7/2024,Apple,Apple - iPad for Business Presentations,435,Computer Equipment
+ae4807a7-e2ee-4bbd-957d-4e2c60346ea8,9/8/2024,Netflix Business Account,Netflix Business Account,107.39,Needs Context
+56d63a67-39a4-4b28-834f-201226563372,3/31/2024,Verizon,Verizon - Office Internet Bill,703.12,Utilities - Phone
+0bd22716-455e-404d-baed-a0da5c23f869,7/30/2024,Costco,Costco - Break Room Coffee Supplies,89.38,Office Supplies
+2545aac1-11f0-42e6-be51-e895727144c0,8/21/2024,Uber,Uber - Ride for Conference,1773.61,Travel - Business
+84749286-8159-4a23-9b4c-f00e111eb6b3,10/20/2024,Hertz,Hertz - Rental Car for Business Meeting,1206.26,Travel - Business
+953deceb-f87b-4a72-987b-9d92c0ed36a9,5/31/2024,Google Workspace Enterprise Plan,Google Workspace Enterprise Plan,239.74,Software Subscription
+659b0de5-a8e3-467f-b4ef-30e87c2278d1,9/8/2024,Notarize.com,Notarize.com - Online Notary for Business,1885.62,Professional Services
+fa413542-f629-4a51-89c9-f76bcbf1af20,5/20/2024,Coursera,Coursera - Business Leadership Course,1053.24,Professional Services
+1444b327-170a-4168-b71e-e0797bc0be24,7/30/2024,Skillshare,Skillshare - UX Design Workshop,147.52,Professional Services
+6796dba7-99c3-4797-9274-390b62eb9065,1/20/2024,Chase Bank,Chase Bank - Business Loan Processing Fee,85.11,Needs Context
+cb1d6df4-0d53-47ad-9d5a-314054c2b719,1/6/2024,Bank of America,Bank of America - International Wire Transfer,922.91,Needs Context
+c5a16336-ab33-488a-b80f-87093de648aa,1/19/2024,LegalShield,LegalShield - Business Legal Services,1959.15,Professional Services
+69798b58-0758-4d6f-b7ea-b258bad50518,3/22/2024,Trader Joe’s,Trader Joe’s - Office Party Supplies,1263.54,Meals & Entertainment - Business
+a5badc98-c7fd-4ba9-83f3-b6cc85007695,5/1/2024,Whole Foods,Whole Foods - Executive Meeting Catering,1648.55,Meals & Entertainment - Business
+f75d6ee2-9b3c-470b-985d-3c0d9c9f8e15,5/31/2024,Eventbrite,Eventbrite - Business Conference Ticket,687.28,Travel - Business
+ad7000c2-60eb-40e2-bd27-fac19724ab90,5/27/2024,Nike,Nike - Team Corporate Gifts,1982.22,Needs Context
+51d92188-449f-49ef-b1e6-dd7697042a5a,1/3/2024,Spotify Premium Subscription,Spotify Premium Subscription,54.08,Personal Subscription
+d3e4bd7a-0e72-4b8a-ade4-de670c40ed33,4/14/2024,Airtable,Airtable - Business Collaboration Tool,540.69,Software Subscription
+2f7845c4-eb5e-4a46-acb3-c7d85fd3cb73,8/12/2024,Upwork,Upwork - Freelancer Design Contract,1725.04,Professional Services
+ccb15159-165e-4df2-8916-d60b7c5f4a9d,3/2/2024,Xfinity,Xfinity - Office WiFi Service,527.4,Utilities - Phone
+1731852f-f013-4a3a-8bf0-ad74b41bae21,2/25/2024,Honda Dealership,Honda Dealership - Car Lease for CEO,1607.5,Needs Context
+c80e3c07-678d-417a-a7d4-86dba505084a,9/29/2024,Southwest Airlines,Southwest Airlines - Business Travel,274.18,Travel - Business
+d16e63a9-aed8-498f-96ed-dec2e64d6fdf,6/18/2024,Chick-fil-A,Chick-fil-A - Personal Lunch,308.74,Meals & Entertainment - Personal
+abb1a2da-0977-4b1d-9d13-18c474f097e3,1/20/2024,Amazon Web Services,Amazon Web Services - EC2 Instance Fees,1267.06,Cloud Services
+8e7085f4-83b2-438f-b025-f7debf18226e,6/14/2024,Uber,Uber - Airport Ride for Business Trip,1214.51,Travel - Business
+82e07322-24f6-4f89-acc6-a60e72440f9e,8/4/2024,Google Domains,Google Domains - Email Hosting,283.97,Cloud Services
+42de2f93-8278-47cb-8a9e-7e2820a7a6e0,8/9/2024,AWS S3 Storage Fee,AWS S3 Storage Fee,113.02,Cloud Services

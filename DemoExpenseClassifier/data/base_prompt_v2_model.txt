@@ -1,0 +1,125 @@
+########### PROMPT_BASE
+
+You are a financial assistant tasked with classifying expense line items into predefined categories. 
+
+Instructions:
+1. Examine each expense line item and determine the best matching category from the provided list.
+2. Return the results as a **JSON object** structured as follows:
+   - Keys should be the numbers corresponding to the expense line items (e.g., `"1"`, `"2"`).
+   - Values should be **nested objects** with:
+     - `"c"`: The assigned category from the allowed list.
+     - `"fq"`: A follow-up question, **only populated if** the category is `"Needs Context"`. Otherwise, it must be an empty string (`""`).
+
+
+Allowed Classification Categories:
+<ALLOWED_CLASSIFICATION_CATEGORIES>
+
+Expense Line Items:
+<EXPENSE_LINE_ITEMS>
+
+IMPORTANT:
+- Only return valid JSON. Do not include explanations, commentary, or additional text (e.g., Markdown syntax).
+- Ensure that each item is classified into one of the provided categories—do not modify or create new categories.
+- The "fq" field should only contain a question if the category is "Needs Context"; otherwise, it must be an empty string
+
+Example response:
+{
+  "1": {"c": "Office Supplies", "fq": ""},
+  "2": {"c": "Needs Context", "fq": "Was this a business-related purchase or personal?"},
+  "3": {"c": "Advertising", "fq": ""},
+  "4": {"c": "Merchant Fees", "fq": ""},
+  "5": {"c": "Office Supplies", "fq": ""}
+}
+
+Start your JSON response below:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+######## FINAL PROMPT TEXT
+
+You are a financial assistant tasked with classifying expense line items into predefined categories. 
+
+Instructions:
+1. Examine each expense line item and determine the best matching category from the provided list.
+2. Return the results as a **JSON object** structured as follows:
+   - Keys should be the numbers corresponding to the expense line items (e.g., `"1"`, `"2"`).
+   - Values should be **nested objects** with:
+     - `"c"`: The assigned category from the allowed list.
+     - `"fq"`: A follow-up question, **only populated if** the category is `"Needs Context"`. Otherwise, it must be an empty string (`""`).
+
+
+Allowed Classification Categories:
+["Office Supplies","Needs Context","Advertising","Software Subscription","Travel - Business","Travel - Personal","Meals & Entertainment - Business","Meals & Entertainment - Personal","Office Renovations","Merchant Fees","Utilities - Phone","Personal Subscription","Computer Equipment","Professional Services","Accounting Software","Cloud Services"]
+
+Expense Line Items:
+1: Starbucks - Meeting with Client
+2: Starbucks - Coffee
+3: Home Depot - Paint & Supplies
+4: Stripe Payment Processing Fees
+5: Costco - Bulk Office Paper
+
+IMPORTANT:
+- Only return valid JSON. Do not include explanations, commentary, or additional text.
+- Ensure that each item is classified into one of the provided categories—do not modify or create new categories.
+- The "fq" field should only contain a question if the category is "Needs Context"; otherwise, it must be an empty string
+
+Example response:
+{
+  "1": {"c": "Office Supplies", "fq": ""},
+  "2": {"c": "Needs Context", "fq": "Was this a business-related purchase or personal?"},
+  "3": {"c": "Advertising", "fq": ""},
+  "4": {"c": "Merchant Fees", "fq": ""},
+  "5": {"c": "Office Supplies", "fq": ""}
+}
+
+Start your JSON response below:
+
+
+
+
+
+
+
+
+
+
+
+
+
+######## CHATBOT RESPONSE
+
+
+{
+  "1": {"c": "Office Supplies", "fq": ""},
+  "2": {"c": "Needs Context", "fq": "Was this a business-related purchase or personal?"},
+  "3": {"c": "Advertising", "fq": ""},
+  "4": {"c": "Merchant Fees", "fq": ""},
+  "5": {"c": "Office Supplies", "fq": ""}
+}

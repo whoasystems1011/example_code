@@ -1,0 +1,19 @@
+﻿id,date,vendor,description,amount,classification
+8440fc6b-d524-4e44-ab7b-6010f9202395,5/10/2024,Amazon Purchase,Amazon Purchase - Ergonomic Keyboard,1307.72,Office Supplies
+92b12e33-5c28-4cce-b5d4-b57755cbffea,9/27/2024,Google Ads Monthly Spend,Google Ads Monthly Spend,1374.43,Advertising
+e3fa266a-f28d-48f4-829b-d7ce061ecc59,3/18/2024,AWS Cloud Storage Monthly Fee,AWS Cloud Storage Monthly Fee,1929.54,Cloud Services
+e0c026f5-286c-4763-9fbe-c33202ad5d5c,10/17/2024,Uber,Uber - Client Meeting Downtown,151.79,Travel - Business
+73b49df5-f4bb-4b60-8da0-573896bcee2c,7/4/2024,Starbucks,Starbucks - Coffee for Team Meeting,664.62,Meals & Entertainment - Business
+50ae886a-a4df-45b5-a411-99d5cd896220,7/25/2024,Stripe Transaction Fee,Stripe Transaction Fee,787.52,Merchant Fees
+c91346e0-9f87-46d3-96f5-abfc23bfb9fa,5/4/2024,Best Buy,Best Buy - Laptop for New Employee,703.72,Computer Equipment
+aad3b9f2-e671-4b6c-8683-82bc8b5f0e85,10/7/2024,QuickBooks Online Subscription,QuickBooks Online Subscription,975.75,Software Subscription
+eee14efb-7a3a-477d-8b3f-41b12f29e450,4/16/2024,LinkedIn Premium Business Plan,LinkedIn Premium Business Plan,1535.44,Professional Services
+b5d08ca3-a93a-4add-adf9-4a75a4a21cc6,4/29/2024,T-Mobile Business Plan,T-Mobile Business Plan,1667.37,Utilities - Phone
+8d22a0cb-fc2c-4223-bae5-d49914e48583,2/2/2024,Chick-fil-A,Chick-fil-A - Lunch with Client,920.19,Meals & Entertainment - Business
+e5c0ff7d-de8d-41a2-9339-58f0c25a0148,7/29/2024,Marriott Hotel,Marriott Hotel - Business Conference,263.98,Travel - Business
+e1c3f5af-2b65-485e-85bd-ed3432c6a8d5,9/20/2024,Dropbox Annual Business Plan,Dropbox Annual Business Plan,626.19,Software Subscription
+8e1aa9ad-48c3-42b9-9c77-1e6984ea9dfc,4/16/2024,Verizon Wireless Monthly Bill,Verizon Wireless Monthly Bill,1295.19,Utilities - Phone
+df0f4505-4c90-445a-a7e1-2dd1286bea74,9/4/2024,Home Depot,Home Depot - Office Light Fixtures,1094.85,Office Renovations
+7c769f56-bbcb-42dd-95bf-ae453a35ba58,4/12/2024,PayPal,PayPal - Freelancer Invoice,1878.71,Professional Services
+f01e6dcf-60db-4787-954c-4e0d29ae56fe,10/15/2024,Hertz Rental Car,Hertz Rental Car - Client Visit,128.4,Travel - Business
+66aef663-a4e8-4209-862f-fb44a2eb17a6,5/6/2024,Adobe Creative Cloud,Adobe Creative Cloud - Annual Plan,989.69,Software Subscription

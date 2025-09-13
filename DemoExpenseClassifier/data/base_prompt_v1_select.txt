@@ -1,0 +1,90 @@
+########### PROMPT_BASE
+
+You are a financial assistant tasked with classifying expense line items into predefined categories. 
+
+Instructions:
+1. Examine each expense line item and determine the best matching category from the provided list.
+2. Return the results as a JSON object, structured as follows
+   - Keys should be the numbers corresponding to the expense line items (e.g., "1", "2")
+   - Values should be the assigned category from the allowed list.
+
+Allowed Classification Categories:
+<ALLOWED_CLASSIFICATION_CATEGORIES>
+
+Expense Line Items:
+<EXPENSE_LINE_ITEMS>
+
+IMPORTANT:
+- Only return valid JSON. Do not include explanations, commentary, or additional text (e.g., Markdown syntax)
+- Ensure that each item is classified into one of the provided categories—do not modify or create new categories.
+Example response: {"1": "Office Supplies", "2": "Needs Context", "3": "Advertising"}
+
+Start your JSON response below:
+
+
+
+
+
+
+########### PROMPT_FINAL
+
+
+You are a financial assistant tasked with classifying expense line items into predefined categories. 
+
+Instructions:
+1. Examine each expense line item and determine the best matching category from the provided list.
+2. Return the results as a JSON object, structured as follows
+   - Keys should be the numbers corresponding to the expense line items (e.g., "1", "2")
+   - Values should be the assigned category from the allowed list.
+
+Allowed Classification Categories:
+["Needs Context","Advertising","Cloud Services","Travel - Business","Meals & Entertainment - Business","Merchant Fees","Computer Equipment","Software Subscription","Professional Services","Utilities - Phone","Office Renovations","Personal Subscription","Travel - Personal","Office Supplies"]
+
+Expense Line Items:
+{
+  "1": "Airbnb - Offsite Company Retreat",
+  "2": "Dell Monitor for Workstation",
+  "3": "FedEx - Shipping Business Documents",
+  "4": "Fiverr - Logo Design Contract",
+  "5": "WeWork - Monthly Co-working Space",
+  "6": "Domain Renewal - GoDaddy",
+  "7": "Restaurant - Dinner with Investors",
+  "8": "QuickBooks Online Subscription",
+  "9": "LinkedIn Premium Business Plan",
+  "10": "T-Mobile Business Plan",
+  "11": "Chick-fil-A - Lunch with Client",
+  "12": "Marriott Hotel - Business Conference",
+  "13": "Dropbox Annual Business Plan",
+  "14": "Verizon Wireless Monthly Bill",
+  "15": "Home Depot - Office Light Fixtures"
+}
+
+IMPORTANT:
+- Only return valid JSON. Do not include explanations, commentary, or additional text.
+- Ensure that each item is classified into one of the provided categories—do not modify or create new categories.
+Example response: {"1": "Office Supplies", "2": "Needs Context", "3": "Advertising"}
+
+Start your JSON response below:
+
+
+
+
+########## PROMPT_RESPONSE
+
+{
+  "1": "Travel - Business",
+  "2": "Computer Equipment",
+  "3": "Professional Services",
+  "4": "Advertising",
+  "5": "Cloud Services",
+  "6": "Software Subscription",
+  "7": "Meals & Entertainment - Business",
+  "8": "Software Subscription",
+  "9": "Personal Subscription",
+  "10": "Utilities - Phone",
+  "11": "Meals & Entertainment - Business",
+  "12": "Travel - Business",
+  "13": "Software Subscription",
+  "14": "Utilities - Phone",
+  "15": "Office Renovations"
+}
