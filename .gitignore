@@ -1,10 +1,19 @@
-# ignore actual macro workbooks, 
-# we only upload exported source code
-*.xlsm
+# PUBLIC EXAMPLE REPO
 
-# ignore weirdo binary .frx files
+# ---------------- file types -----------------------
+
+# Ignore weirdo binary .frx files
 *.frx
 
-# ignore refactor related stuff
-# paths that get logged could contain sensitive info
-WhoaRefactorSummaries/
+# Ignore all macro workbooks by default
+*.xlsm
+*.xlam
+
+# ---------------- directories -----------------------
+
+# Local dev scratch + refactor logs (sensitive paths)
+**/ignore/
+**/WhoaRefactorSummaries/
+
+# ---------------- security -----------------------
+*.env
